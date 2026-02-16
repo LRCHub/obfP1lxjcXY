@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "ムーンライト伝説",
+  "base_artist": "DALI",
+  "createdAt": "2026-02-16T16:43:32.613610Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ムーンライト伝説",
+      "artist": "美少女戦士セーラームーンCosmos feat. エターナルセーラームーン(CV:三石琴乃), エターナルセーラーマーキュリー(CV:金元寿子), エターナルセーラーマーズ(CV:佐藤利奈), エターナルセーラージュピター(CV:小清水亜美) & エターナルセーラーヴィーナス(CV:伊藤 静)",
+      "has_synced": true,
+      "path": "select/01_ムーンライト伝説_美少女戦士セーラームーンCosmos_feat._エターナルセーラームーン(CV_三石琴乃),_エターナルセーラーマーキュリー(CV_金元寿子),_エターナルセ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ムーンライト伝説",
+      "artist": "美少女戦士セーラームーンCosmos/エターナルセーラームーン(CV:三石琴乃)/エターナルセーラーマーキュリー(CV:金元寿子)/エターナルセーラーマーズ(CV:佐藤利奈)/エターナルセーラージュピター(CV:小清水亜美)/エターナルセーラーヴィーナス(CV:伊藤 静)",
+      "has_synced": true,
+      "path": "select/02_ムーンライト伝説_美少女戦士セーラームーンCosmos_エターナルセーラームーン(CV_三石琴乃)_エターナルセーラーマーキュリー(CV_金元寿子)_エターナルセーラーマーズ(C.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ムーンライト伝説",
+      "artist": "ゆっくり",
+      "has_synced": false,
+      "path": "select/03_ムーンライト伝説_ゆっくり.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ムーンライト伝説",
+      "artist": "DALI",
+      "has_synced": true,
+      "path": "select/04_ムーンライト伝説_DALI.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ムーンライト伝説",
+      "artist": "ムーンリップス",
+      "has_synced": true,
+      "path": "select/05_ムーンライト伝説_ムーンリップス.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ムーンライト伝説 (Spanish Version)",
+      "artist": "Salomé Anjarí",
+      "has_synced": true,
+      "path": "select/06_ムーンライト伝説_(Spanish_Version)_Salomé_Anjarí.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ムーンライト伝説",
+      "artist": "Tokyo Philharmonic Orchestra",
+      "has_synced": false,
+      "path": "select/07_ムーンライト伝説_Tokyo_Philharmonic_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ムーンライト伝説",
+      "artist": "東京フィルハーモニー交響楽団",
+      "has_synced": false,
+      "path": "select/08_ムーンライト伝説_東京フィルハーモニー交響楽団.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ムーンライト伝説 -ZZ ver.-",
+      "artist": "Momoiro Clover Z",
+      "has_synced": true,
+      "path": "select/09_ムーンライト伝説_-ZZ_ver.-_Momoiro_Clover_Z.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ムーンライト伝説 (仏語Ver.)",
+      "artist": "Clementine",
+      "has_synced": false,
+      "path": "select/10_ムーンライト伝説_(仏語Ver.)_Clementine.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ムーンライト伝説（仏語ver.）",
+      "artist": "Clémentine",
+      "has_synced": false,
+      "path": "select/11_ムーンライト伝説(仏語ver.)_Clémentine.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ムーンライト伝説",
+      "artist": "DALI",
+      "has_synced": false,
+      "path": "select/pl_01_ムーンライト伝説_DALI.txt"
+    }
+  ]
+}
